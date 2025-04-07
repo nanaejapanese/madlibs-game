@@ -1,5 +1,10 @@
-# this program creates a Mad Libs game.
-#It includes an extended story with additional for more creativity.
+# Mad Libs ゲーム(this program creates a Mad Libs game)
+          #Python で作成した入力型の物語ゲームです.
+          #ユーザーの入力によって、ストーリーが変化します。
+
+# Python
+
+
 
 print("Please enter the following:")
 
